@@ -1,0 +1,49 @@
+body{
+    background-image: url('highway-outrun-ai-3840x2160-15888.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+*{
+    font-family: "Tilt Neon", sans-serif;
+    text-transform: capitalize;
+}
+.container{
+    margin: auto;
+    height: 70vh;
+    width: 80vw;
+    display: flex;
+    justify-content: center;
+
+}
+.loginpage{
+    
+    margin: auto;
+    margin-top: 110px;
+   background: #688c7082;
+ width:150px;
+ height: 150px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+opacity:100 ;
+border-radius: 10%;
+
+}
+.box{
+    margin-top: 21px;
+width: 200px;
+height: 30px;
+color: limegreen
+
+
+
+}
+
+input{
+    width: 130px;
+    height: 12px;
+    border-radius: 4px;
+
+  
+}
+
